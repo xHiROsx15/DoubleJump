@@ -1,0 +1,15 @@
+name: DoubleJump
+main: com.nova.code.doublejump.DoubleJump
+version: 1.0
+description: >
+             Created by NOVA dev team!
+commands:
+  doublejump:
+    description: Type /doublejump help for more info
+permissions:
+  doublejump.use:
+    default: false
+  doublejump.command:
+    default: false
+  doublejump.nohunger:
+    default: false
