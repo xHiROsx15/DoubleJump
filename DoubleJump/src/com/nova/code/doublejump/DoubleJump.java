@@ -34,6 +34,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class DoubleJump extends JavaPlugin
   implements Listener
 {
+	
   private final Map<Player, Long> jumps = new HashMap<Player, Long>();
 
   public void onEnable()
